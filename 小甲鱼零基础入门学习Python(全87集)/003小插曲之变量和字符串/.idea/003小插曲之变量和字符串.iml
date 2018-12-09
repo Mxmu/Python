@@ -5,6 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="004改进我们的小游戏" />
+    <orderEntry type="module" module-name="Python" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="py.test" />
